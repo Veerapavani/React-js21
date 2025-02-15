@@ -1,0 +1,9 @@
+{
+    "users" : [
+        {
+            "name" : "Veerapavani" ,
+            "id"   :1 ,
+            "designation" : "developer"
+        }
+    ]
+}
